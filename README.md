@@ -45,6 +45,3 @@ This specialization is designed for beginners with basic Python knowledge and hi
 ### Acknowledgments
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [Coursera](https://www.coursera.org/)
-```
-
-This `README.md` provides an overview of the specialization, highlights the courses included, details learning outcomes, and gives instructions for getting started, usage, contributing, and licensing.
